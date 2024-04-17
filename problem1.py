@@ -1,5 +1,5 @@
 def Get_name():
-    name = input(name: )
+    name = input("name: ")
     return name
 
 def get_tshirt():
